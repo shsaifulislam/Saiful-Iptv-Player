@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Saiful IPTV Player
+GenericName=IPTV & Universal Media Player
+Comment=Premium cross-platform IPTV player with EPG, VOD, and Multi-View
+Exec=saiful_iptv_player %u
+Icon=saiful_iptv_player
+Terminal=false
+Categories=AudioVideo;Video;Player;TV;
+Keywords=IPTV;Player;Streaming;EPG;M3U;VOD;
+MimeType=x-scheme-handler/saifuliptv;video/mp4;video/x-matroska;application/x-mpegurl;
+StartupWMClass=com.saiful.iptvplayer
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="http://saiful.com/SaifulIptvPlayer" version="1.0.0" viewmodes="fullscreen">
+    <tizen:application id="SaifulIptv.Player" exec="index.html" screen-orientation="landscape" required_version="6.0"/>
+    <name>Saiful IPTV Player</name>
+    <icon src="icon.png"/>
+    <tizen:privilege name="http://tizen.org/privilege/internet"/>
+    <tizen:privilege name="http://tizen.org/privilege/tv.inputdevice"/>
+    <tizen:profile name="tv"/>
+</widget>
+

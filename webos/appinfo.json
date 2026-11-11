@@ -1,0 +1,15 @@
+{
+  "id": "com.saiful.iptvplayer",
+  "version": "1.0.0",
+  "vendor": "Saiful Systems",
+  "type": "web",
+  "main": "index.html",
+  "title": "Saiful IPTV Player",
+  "icon": "icon.png",
+  "largeIcon": "largeIcon.png",
+  "resolution": "1920x1080",
+  "requiredPermissions": [
+    "network"
+  ]
+}
+
